@@ -1,0 +1,10 @@
+m1=int(input("marks of studen 1:-  "))
+m2=int(input("marks of studen 2:-  "))
+m3=int(input("marks of studen 3:-  "))
+m4=int(input("marks of studen 4:-  "))
+m5=int(input("marks of studen 5:-  "))
+m6=int(input("marks of studen 6:-  "))
+m=[m1,m2,m3,m4,m5,m6]
+print(m)
+m.sort()
+print(m)

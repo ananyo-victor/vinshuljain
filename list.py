@@ -1,9 +1,0 @@
-a=[1,3,5,9,34,57]
-print(a)
-print(a[4])
-a[0]=98
-print(a)
-b=["vinshul",34,4.0,False]
-b[2]=["harry"]
-print(b)
-print(b[0:3])#slicing
